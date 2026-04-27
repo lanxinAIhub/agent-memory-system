@@ -3,6 +3,7 @@
 > AI Agent 持久记忆系统：跨会话记忆存储、检索与遗忘机制
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/lanxinAIhub/agent-memory-system/actions/workflows/ci.yml/badge.svg)](https://github.com/lanxinAIhub/agent-memory-system/actions/workflows)
 
 ## 核心概念
 
